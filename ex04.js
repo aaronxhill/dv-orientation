@@ -8,4 +8,4 @@ fs.readFile(process.argv[2], function (err, data) {
   console.log(num.length - 1);
 });
 
-var name = "aaron";
+var name = "Aaron";
