@@ -7,3 +7,5 @@ fs.readFile(process.argv[2], function (err, data) {
   num = num.split('\n');
   console.log(num.length - 1);
 });
+
+var name = "aaron";
